@@ -1,4 +1,4 @@
-# 📄 Gemini-powered Resume Matcher
+# 📄 RAG Application for Gemini-powered Resume Matcher
 
 This project is a **Streamlit-based web application** that uses **Google Gemini (Gemini 1.5 Flash)** to automatically evaluate and rank resumes (PDF files) against a given **job description**. It helps HR or technical recruiters to make better shortlisting decisions using AI.
 
